@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World! I'm Olga 👋
+### Welcome to my profile!
+
+
 
 <!--
 **OlgaVoronkina/OlgaVoronkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
